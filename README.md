@@ -1,6 +1,4 @@
-COVID-19 data tracking web site. Displays most recent statistics on infections, recoveries, and deaths globally and by country. Data visualized using Material UI and Mapbox.
-
-Webapp created using: Create React App (https://github.com/facebook/create-react-app)
+Created using: Create React App (https://github.com/facebook/create-react-app)
 
 ### Check out the finished webpage:
 
