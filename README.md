@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Check out the finished webpage:
+### Check out the finished webpage:
+
 https://coviddatatracker-aj.netlify.app/
 
 ## Available Scripts
