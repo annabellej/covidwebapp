@@ -1,4 +1,4 @@
-Created using: Create React App (https://github.com/facebook/create-react-app)
+Created using Create React App (https://github.com/facebook/create-react-app), data visualized with Material UI and Mapbox, deployed with Netlify.
 
 ### Check out the finished webpage:
 
